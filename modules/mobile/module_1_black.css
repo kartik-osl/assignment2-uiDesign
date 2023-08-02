@@ -147,4 +147,14 @@
     background: yellow;
     border-radius: 100%;
   }
+  #gcircle{
+    z-index: 1;
+    position: absolute;
+    top: 50rem;
+    left: -0.5rem;
+    width: 4rem;
+    height: 4rem;
+    background: yellow;
+    border-radius: 100%;
+  }
 }/*# sourceMappingURL=module_1_black.css.map */
