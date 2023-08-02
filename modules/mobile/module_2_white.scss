@@ -1,6 +1,15 @@
 @media screen and (max-width: 600pt) {
     .white {
         background: #EBF0F0;
+        position: relative;
+
+        .yellow-circle {
+            position: absolute;
+            border-radius: 100%;
+            width: 3rem;
+            aspect-ratio: 1/1;
+
+        }
 
         .left {
             padding: 32.5pt 0;

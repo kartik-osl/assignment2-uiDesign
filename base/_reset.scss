@@ -9,4 +9,11 @@
 img {
     width: 100%;
     object-fit: contain;
+
 }
+
+@media screen and (min-width: 1200px){
+    body > *{
+        padding: 0 5rem;
+    }
+} 
